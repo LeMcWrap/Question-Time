@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("LeMcWrap - Julien Dyme")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Question TIME , il faur repondre a des question")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad4534f98948fd49df966ff6a80f3ce0a12bbaa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Question Time")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Question Time")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
