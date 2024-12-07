@@ -31,3 +31,4 @@ C:\Users\julie\Documents\bin-vs\QuestionTime\x64\questiontime\net8.0\Question Ti
 C:\Users\julie\Documents\bin-vs\QuestionTime\x64\questiontime\net8.0\Question Time.runtimeconfig.json
 C:\Users\julie\Documents\bin-vs\QuestionTime\x64\questiontime\net8.0\Question Time.dll
 C:\Users\julie\Documents\bin-vs\QuestionTime\x64\questiontime\net8.0\Question Time.pdb
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0\Question Time.sourcelink.json

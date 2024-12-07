@@ -17,6 +17,7 @@
     <Authors>LeMcWrap - Julien Dyme</Authors>
     <Title>Question TIME | LeMcWrap - Julien Dyme</Title>
     <BaseOutputPath>C:\Users\julie\Documents\bin-vs\QuestionTime</BaseOutputPath>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -31,6 +32,13 @@
       <PackagePath>\</PackagePath>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
