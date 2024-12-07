@@ -18,7 +18,7 @@ Ce projet est un quiz interactif développé en C#. Il permet aux utilisateurs d
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://votre-url-de-repo.git
+   git clone https://github.com/LeMcWrap/Question-Time
    cd QuestionTime
    ```
 
