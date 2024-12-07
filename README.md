@@ -31,16 +31,17 @@ Ce projet est un quiz interactif développé en C#. Il permet aux utilisateurs d
 
 ## Utilisation
 
-1. **Exécutez le programme** :
-   ```bash
-   dotnet run
-   ```
+1. **Installez le programme** :
+   - Téléchargez le fichier exécutable `question_time.exe` depuis la section des releases de ce dépôt.
 
-2. **Répondez aux questions** :
+2. **Exécutez le programme** :
+   - Lancez le programme en double-cliquant sur `question_time.exe`.
+
+3. **Répondez aux questions** :
    - Lisez chaque question et choisissez la réponse correcte en entrant le numéro correspondant.
    - Suivez les instructions affichées pour chaque question.
 
-3. **Vérifiez votre score** à la fin du quiz.
+4. **Vérifiez votre score** à la fin du quiz.
 
 ## Auteurs
 
