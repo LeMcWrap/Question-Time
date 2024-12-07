@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question Time", "Question Time.csproj", "{4591397F-3676-478C-8AE9-6BBE1AA865E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		questiontime|Any CPU = questiontime|Any CPU
+		questiontime|x64 = questiontime|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Debug|x64.ActiveCfg = Debug|x64
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Debug|x64.Build.0 = Debug|x64
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.questiontime|Any CPU.ActiveCfg = questiontime|Any CPU
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.questiontime|Any CPU.Build.0 = questiontime|Any CPU
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.questiontime|x64.ActiveCfg = questiontime|x64
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.questiontime|x64.Build.0 = questiontime|x64
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Release|x64.ActiveCfg = Release|x64
+		{4591397F-3676-478C-8AE9-6BBE1AA865E2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

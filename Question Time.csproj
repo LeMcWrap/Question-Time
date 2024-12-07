@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Question_Time</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Configurations>Debug;Release;questiontime</Configurations>
+    <Platforms>AnyCPU;x64</Platforms>
+    <StartupObject>Program</StartupObject>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <PackageIcon>QuestionTIME.png</PackageIcon>
+    <Copyright>LeMcWrap - Julien Dyme</Copyright>
+    <Description>Question TIME , il faur repondre a des question</Description>
+    <Company>LeMcWrap - Julien Dyme</Company>
+    <Authors>LeMcWrap - Julien Dyme</Authors>
+    <Title>Question TIME | LeMcWrap - Julien Dyme</Title>
+    <BaseOutputPath>C:\Users\julie\Documents\bin-vs\QuestionTime</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="favicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="D:\Images\Question TIME - favicon\QuestionTIME.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

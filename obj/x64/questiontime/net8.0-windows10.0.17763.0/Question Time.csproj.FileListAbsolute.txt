@@ -1,0 +1,18 @@
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\favicon.ico
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.exe
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.deps.json
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.runtimeconfig.json
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.dll
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.pdb
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\julie\source\repos\Question Time\bin\x64\questiontime\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.AssemblyInfo.cs
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question.702E1DC8.Up2Date
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.dll
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\refint\Question Time.dll
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.pdb
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\Question Time.genruntimeconfig.cache
+C:\Users\julie\source\repos\Question Time\obj\x64\questiontime\net8.0-windows10.0.17763.0\ref\Question Time.dll
